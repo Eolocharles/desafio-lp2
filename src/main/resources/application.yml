@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://eolo:EDjBvgE7fb%407Fg2@lp2-cluster-01.8nasm.mongodb.net/test
+
